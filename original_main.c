@@ -1,20 +1,4 @@
-/*H**********************************************************************
-*
-*
-* DESCRIPTION :
-*       First version of the assignment validator.
-*
-* 
-*		You may pipe the main to grep Results in order to check the tests results.
-*		Change the naming  of your files according to this example  main .
-*		Example  compile: gcc -std=c99 -o ht_main_test ht_main_test.c ht.c BF_64.a
-*		Assumes that your implementation is placed in ht.c and your header  is HT.h
-* PARAMETERS: 
-*		1) Number of records for test.
-*		2) Proportion for deletes.
-* EXAMPLE:
-		ht_main_test 1000 0.1
-*H*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
