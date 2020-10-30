@@ -15,7 +15,6 @@
 *		2) Proportion for deletes.
 * EXAMPLE:
 		ht_main_test 1000 0.1
-* AUTHOR :	Nikolaos Panagiotou
 *H*/
 #include <stdio.h>
 #include <string.h>
