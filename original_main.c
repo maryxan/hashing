@@ -4,8 +4,7 @@
 * DESCRIPTION :
 *       First version of the assignment validator.
 *
-* NOTES :
-*       The function includes 11 tests.
+* 
 *		You may pipe the main to grep Results in order to check the tests results.
 *		Change the naming  of your files according to this example  main .
 *		Example  compile: gcc -std=c99 -o ht_main_test ht_main_test.c ht.c BF_64.a
