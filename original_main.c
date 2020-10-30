@@ -1,5 +1,5 @@
 /*H**********************************************************************
-* FILENAME : ht_main_test.c
+*
 *
 * DESCRIPTION :
 *       First version of the assignment validator.
